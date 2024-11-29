@@ -43,6 +43,12 @@ python expense_app.py
 
 2. Open your browser and visit http://127.0.0.1:5000/ to start using the expense tracker.
 
+3. Input Page:
+![image](https://github.com/user-attachments/assets/a347ff80-0e9d-49a4-a3b4-72a7a2d84199)
+
+4. Visualization Page:
+![image](https://github.com/user-attachments/assets/36e43970-3b52-40aa-afcb-2db5adc6e60f)
+
 
 ### File Structure
 ```
